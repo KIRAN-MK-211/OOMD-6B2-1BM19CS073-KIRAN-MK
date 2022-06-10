@@ -1,4 +1,4 @@
-# OOMD-6B2-1BM19CS073-KIRAN-MK
+# Object Oriented Modelling and Design Laboratory  
 Each folder contains SRS, Class Diagram, State Diagram.  
 1. College Information System  
 2. Hostel Management System  
