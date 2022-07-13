@@ -1,5 +1,5 @@
 # Object Oriented Modelling and Design Laboratory  
-Each folder contains SRS, Class Diagram, State Diagram.  
+Each folder contains SRS, Advanced Class Diagram, Advanced State Diagram, Advanced Activity Diagram, Advanced Use Case Diagram, Advanced Sequence Diagram.    
 1. College Information System  
 2. Hostel Management System  
 3. Stock Maintenance System  
